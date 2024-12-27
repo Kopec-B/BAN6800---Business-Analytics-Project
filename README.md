@@ -1,4 +1,3 @@
-# BAN6800---Business-Analytics-Project
 Telco Customer Churn Prediction: Data Preparation and Model Development
 Overview
 This project aims to predict customer churn in a telecom company using the Telco Customer Churn dataset. The dataset was cleaned, preprocessed, and prepared for model development. This README provides an overview of the preprocessing steps, analysis techniques, and modeling process.
